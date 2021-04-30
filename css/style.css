@@ -64,7 +64,6 @@ img{
 	font-weight: 400;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	padding: 15px;
-	margin: auto;
 	border: 2px solid ghostwhite;
 	cursor: pointer;
 }
@@ -72,6 +71,7 @@ img{
 	text-decoration: none;
 	color: #ffffff;
 	cursor: pointer;
+	margin: auto;
 }
 .no a:hover{
 	color: rgb(226, 214, 43);
