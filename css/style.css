@@ -68,6 +68,14 @@ img{
 	border: 2px solid ghostwhite;
 	cursor: pointer;
 }
+.no a{
+	text-decoration: none;
+	color: #ffffff;
+	cursor: pointer;
+}
+.no a:hover{
+	color: rgb(226, 214, 43);
+}
 @keyframes fadeIn{
 	0%{
 		opacity: 0;
