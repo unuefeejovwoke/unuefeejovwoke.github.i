@@ -105,6 +105,7 @@ img{
 	.gallery .gallery-item{
 		width: 50%;
 	}
+	
 }
 @media(max-width: 767px){
     .gallery .gallery-item{
@@ -112,5 +113,9 @@ img{
 	}	
 	.gallery .gallery-filter .filter-item{
 		margin-bottom: 10px;
+	}
+	.co{
+		align-items: center;
+		font-size: 12px;
 	}
 }
